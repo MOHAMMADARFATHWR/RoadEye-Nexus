@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">RoadEye Nexus</string>
+    <string name="subtitle_adas_bridge">V3 ADAS TELEMETRY BRIDGE // UDP</string>
+    <string name="network_config_title">LAPTOP NODE TARGET</string>
+    <string name="label_target_ip">Target IPv4</string>
+    <string name="label_target_port">UDP Port</string>
+    <string name="obd2_link_title">ELM327 OBD2 LINK</string>
+    <string name="btn_select_obd2">Select Dongle</string>
+    <string name="btn_quick_connect_obd2">Quick-Connect</string>
+    <string name="btn_disconnect_obd2">Disconnect</string>
+    <string name="btn_start_stream">ENGAGE TELEMETRY STREAM</string>
+    <string name="btn_stop_stream">HALT TELEMETRY STREAM</string>
+    <string name="status_streaming">STREAMING</string>
+    <string name="status_standby">STANDBY</string>
+    <string name="status_obd_connected">CONNECTED</string>
+    <string name="status_obd_polling">POLLING</string>
+    <string name="status_obd_connecting">INIT ELM327</string>
+    <string name="status_obd_reconnecting">RETRYING</string>
+    <string name="status_obd_disconnected">DISCONNECTED</string>
+    <string name="grant_permissions">Grant Access</string>
+    <string name="open_app_settings">App Settings</string>
+    <string name="permissions_banner_msg">Location and Bluetooth permissions are needed for high-accuracy GPS and ELM327 OBD2 telemetry.</string>
+    <string name="cd_hud_banner">RoadEye Nexus telemetry horizon visualization</string>
+    <string name="cd_bluetooth_icon">Bluetooth OBD2 adapter</string>
+    <string name="cd_network_icon">UDP network target</string>
+    <string name="cd_imu_icon">Inertial measurement unit</string>
+    <string name="cd_gps_icon">GNSS positioning</string>
+    <string name="cd_obd_icon">Engine OBD2 telemetry</string>
+    <string name="cd_road_intel_icon">Road surface intelligence</string>
+    <string name="cd_env_health_icon">Environmental sensors and device diagnostics</string>
+    <string name="fgs_channel_name">RoadEye Telemetry Stream</string>
+    <string name="fgs_notification_title">RoadEye Nexus Streaming</string>
+</resources>

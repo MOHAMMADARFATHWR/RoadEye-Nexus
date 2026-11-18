@@ -1,0 +1,6 @@
+{
+  "name": "RoadEye Nexus",
+  "description": "High-frequency 20Hz mobile IMU, GPS, and ELM327 OBD2 telemetry bridge streaming over UDP to RoadEye V3 ADAS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
